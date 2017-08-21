@@ -1,9 +1,31 @@
 .teste{
-  color: black;
+  color: White;
+  background-color: transparent;
+  border: none;
+  font-size: 25px;
+  font-family: 'Press Start 2P', cursive;
 }
 .rastro{
   background-color: #484848 !important;
 }
 .aqui{
     background-color: blue !important;
+}
+.wall{
+	background-color: green !important;
+}
+
+.panel{
+
+	font-size: 25px;
+	font-family: 'Press Start 2P', cursive;
+	color: White;
+
+}
+
+.field{
+	width: 590px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 590px;
 }
