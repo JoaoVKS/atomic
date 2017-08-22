@@ -9,7 +9,8 @@
   background-color: #484848 !important;
 }
 .aqui{
-    background-color: blue !important;
+    background-image: url(char.png);
+    background-size: 100%;
 }
 .wall{
 	background-color: green !important;
