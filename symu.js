@@ -86,7 +86,7 @@ function constroi(limit_y, limit_x)
 {
   var i = 0
   var x = 0;
-  var tt = "<table border='1' class='field' id='screen' style=''>";
+  var tt = "<table border='0' class='field' id='screen' style=''>";
   for(i = 0; i<limit_y; i++)
   {
     tt += "<tr>";

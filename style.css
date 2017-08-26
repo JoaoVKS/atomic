@@ -12,6 +12,7 @@
 .aqui{
     background-image: url(char.png);
     background-size: 100%;
+    background-color: #484848 !important; 
 }
 .wall{
 	background-color: green !important;
@@ -30,4 +31,5 @@
     margin-left: auto;
     margin-right: auto;
     height: 590px;
+    border: 1px solid white;
 }
