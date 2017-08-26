@@ -140,6 +140,8 @@ function move_to(x, y)
     if(e <= 0)
     {
       console.log("Faleceu!");
+      alert("GAME OVER!");
+      location.reload();
     }
   }
 }
