@@ -1,2 +1,2 @@
 # atomic
-Jquery application to simulate an basic animal
+HTML+CSS+JAVSCRIPT/JQUERY simple walking game
